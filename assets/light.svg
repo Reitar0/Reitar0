@@ -113,7 +113,7 @@
           <text x="48" y="284" opacity="0">│ tool_router.init()?;<animate attributeName="opacity" to="1" begin="0.92s" dur="0.4s" fill="freeze"/></text>
           <text x="48" y="308" opacity="0">│ agent.spawn()?;<animate attributeName="opacity" to="1" begin="1.01s" dur="0.4s" fill="freeze"/></text>
           <text x="48" y="332" opacity="0">├─[ frontend ]<animate attributeName="opacity" to="1" begin="1.10s" dur="0.4s" fill="freeze"/></text>
-          <text x="48" y="356" opacity="0">│ React 19 · Next.js 15 ✓<animate attributeName="opacity" to="1" begin="1.19s" dur="0.4s" fill="freeze"/></text>
+          <text x="48" y="356" opacity="0">│ React 19 · Next.js 16 ✓<animate attributeName="opacity" to="1" begin="1.19s" dur="0.4s" fill="freeze"/></text>
           <text x="48" y="380" opacity="0">│ Server Components ✓<animate attributeName="opacity" to="1" begin="1.28s" dur="0.4s" fill="freeze"/></text>
           <text x="48" y="404" opacity="0">│ Suspense · Tailwind v4 ✓<animate attributeName="opacity" to="1" begin="1.37s" dur="0.4s" fill="freeze"/></text>
           <text x="48" y="428" opacity="0">├─[ infra ]<animate attributeName="opacity" to="1" begin="1.46s" dur="0.4s" fill="freeze"/></text>

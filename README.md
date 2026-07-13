@@ -10,9 +10,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg?v=10">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg?v=10">
-    <img alt="Asanuri — Full-stack AI developer" src="./assets/dark.svg?v=10" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg?v=11">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg?v=11">
+    <img alt="Asanuri — Full-stack AI developer" src="./assets/dark.svg?v=11" width="100%">
   </picture>
 </p>
 
