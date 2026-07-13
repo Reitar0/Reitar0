@@ -10,9 +10,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-    <img alt="Asanuri — AI Fullstack developer" src="./assets/dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg?v=2">
+    <img alt="Asanuri — AI Fullstack developer" src="./assets/dark.svg?v=2" width="100%">
   </picture>
 </p>
 
@@ -21,7 +21,8 @@
 ## 👋 About
 
 <!-- ✏️ ЗАМЕНИ строку ниже на свою короткую биографию (1–2 предложения) -->
-AI &amp; Fullstack developer. Building things end-to-end — from frontend architecture to autonomous AI agents.
+
+Fullstack & AI Engineer focused on scalable web applications, automation, and intelligent agents.
 
 - 🎯 **Focus:** AI Fullstack Solutions · Agents · Automation
 - 🎓 **Education:** KCHGU
