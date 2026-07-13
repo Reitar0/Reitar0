@@ -1,0 +1,10 @@
+# локальный предпросмотр, не для профиля
+preview.html
+plain.html
+
+# аватарка ставится через Settings профиля, а не через репозиторий;
+# исходное фото не публикуем
+avatar-src.jpg
+avatar-src.png
+avatar.png
+avatar.gif
