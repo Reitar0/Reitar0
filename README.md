@@ -10,9 +10,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg?v=11">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg?v=11">
-    <img alt="Asanuri — Full-stack AI developer" src="./assets/dark.svg?v=11" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg?v=12">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg?v=12">
+    <img alt="Asanuri — Full-stack AI developer" src="./assets/dark.svg?v=12" width="100%">
   </picture>
 </p>
 
@@ -25,7 +25,7 @@
 Full-stack & AI Engineer focused on scalable web applications, automation, and intelligent agents.
 
 - 🎯 **Focus:** Building AI-powered products with Rust & React
-- 🎓 **Education:** KCHGU
+- 🎓 **Education:** B.Sc. in Applied Informatics (Economics) — KCHGU
 - 📍 **Based in:** Moscow, RU
 - ✉️ **Email:** [asanurireitaro@gmail.com](mailto:asanurireitaro@gmail.com)
 - ✈️ **Telegram:** [@asanuri](https://t.me/asanuri)
